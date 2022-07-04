@@ -1,0 +1,7 @@
+1(stackCreation): stack creation and all basic operations in the stack.
+   operations such as:- is empty, is full, push, pop, traversal, StackTop, 
+   stackBottom etc.
+
+2(linkedListStack): stack using linked list and implementing operation.
+   operations such as:- is empty, is full, push, pop, traversal, peek, StackTop, 
+   stackBottom etc.

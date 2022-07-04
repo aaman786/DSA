@@ -1,0 +1,14 @@
+1. queueCreation : creation of simple queue using the array and 
+		   implementing operation such as isEmpty, isFull
+		   enqueue, dequeue etc.
+		   
+2. circularQueue : creation of simple circular queue using the array and 
+		   implementing operation such as isEmpty, isFull
+		   enqueue, dequeue etc.
+
+3. linkedQueue : creation of linked queue using linked list and performing operations 
+		   such as isEmpty, isFull, enqueue, dequeue.
+
+4. doubly Ended Queue : creation of doubly ended queue and performing operatin traversal,
+						insertion at rear and front, deletion at rear and front.
+
